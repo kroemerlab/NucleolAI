@@ -10,7 +10,7 @@ sudo apt install r-base default-jdk
 ```
 ## R environment
 
-###Packages
+### Packages
 The following packages are required for exploiting the tools at disposal. Within an R session :
 ```R
 install.packages(c('rJava','rcdk','tensorflow','reticulate','keras','magrittr','pbapply','doParallel'))
