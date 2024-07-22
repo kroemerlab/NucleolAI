@@ -15,6 +15,7 @@ The following packages are required for exploiting the tools at disposal. Within
 ```R
 install.packages(c('rJava','rcdk','tensorflow','reticulate','keras','magrittr','pbapply','doParallel'))
 ```
+### Dependencies
 The code below must be run only once, for installing & configuring tensorflow environment:
 ```R
 library(tensorflow)
