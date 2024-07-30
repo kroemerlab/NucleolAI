@@ -1,5 +1,6 @@
-![CON_MICRO](https://github.com/user-attachments/assets/293e6444-d11c-4a10-9e80-00fe0f4d421c)
 # NucleolAI
+![CON_MICRO](https://github.com/user-attachments/assets/293e6444-d11c-4a10-9e80-00fe0f4d421c)
+
 The *NucleolAI* project integrates resources to develop and utilize deep neural network-based QSAR models capable of predicting a small molecule's potential to induce nucleolar compaction (referred as *Condensation Of Nucleoli*, *CON*) in cell nuclei from its SMILES notation.
 
 ## OS environment
